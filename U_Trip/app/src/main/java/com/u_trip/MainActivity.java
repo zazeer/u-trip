@@ -1,6 +1,8 @@
 package com.u_trip;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +22,14 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        Button nearbyButton = findViewById(R.id.btnNearby);
+
+        nearbyButton.setOnClickListener(view -> {
+            Intent intent = new Intent(MainActivity.this, NearbyPlaceActivity.class);
+
+            startActivity(intent);
+        });
+
     }
 }

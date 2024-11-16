@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bookmark
+drawable borobudur
+drawable comment
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable monkeyforest
+drawable nusapenida
+drawable star
+drawable ulundanu
+id bookMarkButton
+id btnNearby
+id buttonDetails
+id commentsImageData
+id commentsTextData
+id listViewData
+id main
+id placeImageData
+id priceData
+id ratingTextData
+id shortDescriptionData
+id starImageData
+id titleData
+layout activity_main
+layout activity_nearby_place
+layout activity_nearby_place_lvtemplate
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.U_Trip
+style Theme.U_Trip
+xml backup_rules
+xml data_extraction_rules

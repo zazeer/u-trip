@@ -1,0 +1,10 @@
+#Sat Nov 16 11:32:01 ICT 2024
+base.0=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
