@@ -1,117 +1,143 @@
 [
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_monkeyforest.png.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\monkeyforest.png"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\ic_launcher_foreground.xml"
     },
     {
+<<<<<<< Updated upstream
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button_bookmark.xml.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button_bookmark.xml"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+=======
+        "merged": "com.u_trip.app-debug-31:/drawable_border_button.xml.flat",
+        "source": "com.u_trip.app-main-33:/drawable/border_button.xml"
+>>>>>>> Stashed changes
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_nearby_place_lvtemplate.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_nearby_place_lvtemplate.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_borobudur.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\borobudur.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_borobudur.png.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\borobudur.png"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_borobudur_review_header.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\borobudur_review_header.png"
     },
     {
+<<<<<<< Updated upstream
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button.xml.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button.xml"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\xml\\data_extraction_rules.xml"
+=======
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_star.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\star.png"
+>>>>>>> Stashed changes
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_monkeyforest.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\monkeyforest.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_ulundanu.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\ulundanu.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_nusapenida.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\nusapenida.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_nusapenida.png.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\nusapenida.png"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_review.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_review.xml"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+<<<<<<< Updated upstream
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button_details.xml.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button_details.xml"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_comment.png.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\comment.png"
+=======
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\xml\\data_extraction_rules.xml"
+>>>>>>> Stashed changes
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_ulundanu.png.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\ulundanu.png"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_borobudur_map.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\borobudur_map.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_bookmark.png.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\bookmark.png"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_bookmarked.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\bookmarked.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_star.png.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\star.png"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
+<<<<<<< Updated upstream
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_nearbybackground.png.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\nearbybackground.png"
+=======
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_nearby_place.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_nearby_place.xml"
+>>>>>>> Stashed changes
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_nearby_place.xml.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_nearby_place.xml"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
+<<<<<<< Updated upstream
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_main.xml"
+=======
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_comment.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\comment.png"
+>>>>>>> Stashed changes
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+<<<<<<< Updated upstream
         "merged": "com.u_trip.app-debug-31:/drawable_rounded_button_bookmark.xml.flat",
         "source": "com.u_trip.app-main-33:/drawable/rounded_button_bookmark.xml"
     },
@@ -126,5 +152,37 @@
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+=======
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_border_button.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\border_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_nearby_place_lvtemplate.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_nearby_place_lvtemplate.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_bookmark.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\bookmark.png"
+>>>>>>> Stashed changes
     }
 ]

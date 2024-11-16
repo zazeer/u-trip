@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 #Sat Nov 16 12:15:56 ICT 2024
 base.0=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+=======
+#Sat Nov 16 12:20:25 ICT 2024
+base.0=C\:\\Users\\lenovo\\Downloads\\Android_Java_Project\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\lenovo\\Downloads\\Android_Java_Project\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\lenovo\\Downloads\\Android_Java_Project\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+>>>>>>> Stashed changes
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=12/classes.dex

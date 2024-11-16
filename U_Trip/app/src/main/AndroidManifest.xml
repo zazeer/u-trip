@@ -13,6 +13,9 @@
         android:theme="@style/Theme.U_Trip"
         tools:targetApi="31">
         <activity
+            android:name=".Review"
+            android:exported="false" />
+        <activity
             android:name=".NearbyPlaceLVTemplate"
             android:exported="false" />
         <activity

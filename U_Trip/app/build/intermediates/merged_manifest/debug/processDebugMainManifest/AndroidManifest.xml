@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.U_Trip" >
         <activity
+            android:name="com.u_trip.Review"
+            android:exported="false" />
+        <activity
             android:name="com.u_trip.NearbyPlaceLVTemplate"
             android:exported="false" />
         <activity

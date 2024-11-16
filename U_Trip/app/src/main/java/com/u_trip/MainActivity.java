@@ -24,9 +24,16 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Button nearbyButton = findViewById(R.id.btnNearby);
+        Button reviewButton = findViewById(R.id.btnReview);
 
         nearbyButton.setOnClickListener(view -> {
             Intent intent = new Intent(MainActivity.this, NearbyPlaceActivity.class);
+
+            startActivity(intent);
+        });
+
+        reviewButton.setOnClickListener(view -> {
+            Intent intent = new Intent(MainActivity.this, Review.class);
 
             startActivity(intent);
         });
