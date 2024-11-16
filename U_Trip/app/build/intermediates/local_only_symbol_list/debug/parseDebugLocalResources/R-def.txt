@@ -8,7 +8,10 @@ drawable comment
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable monkeyforest
+drawable nearbybackground
 drawable nusapenida
+drawable rounded_button_bookmark
+drawable rounded_button_details
 drawable star
 drawable ulundanu
 id bookMarkButton

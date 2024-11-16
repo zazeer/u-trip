@@ -1,4 +1,4 @@
-#Sat Nov 16 11:32:01 ICT 2024
+#Sat Nov 16 12:15:56 ICT 2024
 base.0=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=F\:\\AndroidWorkspace\\u-trip\\U_Trip\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

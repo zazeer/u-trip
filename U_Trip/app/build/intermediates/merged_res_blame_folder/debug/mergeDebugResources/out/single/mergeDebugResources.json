@@ -8,6 +8,10 @@
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button_bookmark.xml.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button_bookmark.xml"
+    },
+    {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_borobudur.png.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\borobudur.png"
+    },
+    {
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button.xml"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\xml_data_extraction_rules.xml.flat",
@@ -52,6 +60,10 @@
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button_details.xml.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button_details.xml"
+    },
+    {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_comment.png.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\comment.png"
     },
@@ -76,12 +88,16 @@
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\star.png"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_nearbybackground.png.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\nearbybackground.png"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_nearby_place.xml.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\layout\\activity_nearby_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\layout_activity_main.xml.flat",
@@ -96,15 +112,19 @@
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.u_trip.app-debug-31:/drawable_rounded_button_bookmark.xml.flat",
+        "source": "com.u_trip.app-main-33:/drawable/rounded_button_bookmark.xml"
+    },
+    {
         "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\drawable_rounded_button_nearby.xml.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\drawable\\rounded_button_nearby.xml"
     },
     {
-        "merged": "com.u_trip.app-debug-31:/layout_activity_nearby_place_lvtemplate.xml.flat",
-        "source": "com.u_trip.app-main-33:/layout/activity_nearby_place_lvtemplate.xml"
+        "merged": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BOUNTY\\.gradle\\daemon\\8.7\\com.u_trip.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     }
 ]

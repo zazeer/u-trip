@@ -3095,6 +3095,7 @@ int drawable mtrl_switch_track 0x7f0700d6
 int drawable mtrl_switch_track_decoration 0x7f0700d7
 int drawable mtrl_tabs_default_indicator 0x7f0700d8
 int drawable navigation_empty_icon 0x7f0700d9
+int drawable nearbybackground 0x7f0700ee
 int drawable notification_action_background 0x7f0700da
 int drawable notification_bg 0x7f0700db
 int drawable notification_bg_low 0x7f0700dc
@@ -3109,6 +3110,8 @@ int drawable notification_template_icon_low_bg 0x7f0700e4
 int drawable notification_tile_bg 0x7f0700e5
 int drawable notify_panel_notification_icon_bg 0x7f0700e6
 int drawable nusapenida 0x7f0700e7
+int drawable rounded_button_bookmark 0x7f0700f1
+int drawable rounded_button_details 0x7f0700f2
 int drawable star 0x7f0700e8
 int drawable test_level_drawable 0x7f0700e9
 int drawable tooltip_frame_dark 0x7f0700ea

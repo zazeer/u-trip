@@ -87,17 +87,20 @@
 
             <Button
                 android:layout_width="85dp"
-                android:layout_height="35dp"
+                android:layout_height="25dp"
                 android:textSize="13sp"
                 android:text="Details"
-                android:id="@+id/buttonDetails"/>
+                android:id="@+id/buttonDetails"
+                android:background="@drawable/rounded_button_details" />
 
             <ImageButton
-                android:layout_width="35dp"
-                android:layout_height="35dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="5dp"
                 android:id="@+id/bookMarkButton"
                 android:layout_gravity="center_vertical"
-                android:src="@drawable/bookmark"/>
+                android:src="@drawable/bookmark"
+                android:background="@drawable/rounded_button_bookmark"/>
 
         </LinearLayout>
 
